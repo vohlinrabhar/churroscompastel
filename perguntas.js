@@ -1,12 +1,12 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Conhecimento Geral',
+    'Qual é o maior planeta do sistema solar?',
+    'O maior planeta do sistema solar é Júpiter'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
+    'Lingua Alemã',
+    'Como se diz "Quente" em alemão?',
     'A capital da França é Paris'
 )
 
