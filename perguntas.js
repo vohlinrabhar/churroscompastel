@@ -1,5 +1,5 @@
 criaCartao(
-    'Conhecimento Geral',
+    'Conhecimentos Gerais',
     'Qual é o maior planeta do sistema solar?',
     'O maior planeta do sistema solar é Júpiter'
 )
@@ -11,13 +11,13 @@ criaCartao(
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Conhecimentos Gerais',
+    'Quantos ossos temos em nosso corpo?',
+    'Temos 206 ossos'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Conhecimentos Gerais',
+    'Qual a montanha mais alta do mundo?',
+    'A maior montanha do mundo é o Monte Everest'
 )
