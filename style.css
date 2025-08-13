@@ -19,6 +19,7 @@ body {
   border: 2px solid #b92222;
   border-radius: 12px;
   width: 260px;
+  height: 300px;
   padding: 20px;
   cursor: pointer;
   box-shadow: 3px 3px 8px rgba(0,0,0,0.1);
