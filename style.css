@@ -1,5 +1,5 @@
 body {
-  background-color: #f4f4f4;
+  background-color: #030303;
   font-family: Arial, sans-serif;
   display: flex;
   flex-wrap: wrap;
@@ -9,7 +9,7 @@ body {
 }
 
 .cartao {
-  background-color: #3b2e2e;
+  background-color: #fff2f2;
   border: 2px solid #ff0000;
   border-radius: 12px;
   width: 260px;
